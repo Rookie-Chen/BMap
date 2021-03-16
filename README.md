@@ -8,15 +8,15 @@
 
   * 行政区域级别
 
-    ![](C:\Users\Administrator\Desktop\demo\img\1.jpg)
+    ![](./img/1.jpg)
 
   * 行政区域下一级
 
-     ![](C:\Users\Administrator\Desktop\demo\img\2.jpg)
+     ![](./img/2.jpg)
 
   * 最后一级详情
 
-    ![](C:\Users\Administrator\Desktop\demo\img\3.jpg)
+    ![](./img/3.jpg)
 
 * 准备工作：申请百度开放平台ak
 
